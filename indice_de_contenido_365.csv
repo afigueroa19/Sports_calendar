@@ -1,0 +1,342 @@
+deporte	liga	local	visita	fecha_hora_evento	cod_semana	cod_mes
+Futbol	España / La Liga	Rayo Vallecano	Alavés	2023-09-15T14:00Z	2023-37	202309
+Futbol	España / La Liga	Athletic Club	Cádiz	2023-09-16T07:00Z	2023-37	202309
+Futbol	España / La Liga	Valencia CF	Atlético de Madrid	2023-09-16T09:15Z	2023-37	202309
+Futbol	España / La Liga	Celta de Vigo	RCD Mallorca	2023-09-16T11:30Z	2023-37	202309
+Futbol	España / La Liga	FC Barcelona	Real Betis	2023-09-16T14:00Z	2023-37	202309
+Futbol	España / La Liga	Getafe CF	Osasuna	2023-09-17T07:00Z	2023-37	202309
+Futbol	España / La Liga	Villarreal CF	UD Almería	2023-09-17T09:15Z	2023-37	202309
+Futbol	España / La Liga	Sevilla FC	Las Palmas	2023-09-17T11:30Z	2023-37	202309
+Futbol	España / La Liga	Real Madrid	Real Sociedad	2023-09-17T14:00Z	2023-37	202309
+Futbol	España / La Liga	Granada CF	Girona FC	2023-09-18T14:00Z	2023-38	202309
+Futbol	España / La Liga	Alavés	Athletic Club	2023-09-22T14:00Z	2023-38	202309
+Futbol	España / La Liga	Girona FC	RCD Mallorca	2023-09-23T07:00Z	2023-38	202309
+Futbol	España / La Liga	Osasuna	Sevilla FC	2023-09-23T09:15Z	2023-38	202309
+Futbol	España / La Liga	FC Barcelona	Celta de Vigo	2023-09-23T11:30Z	2023-38	202309
+Futbol	España / La Liga	UD Almería	Valencia CF	2023-09-23T14:00Z	2023-38	202309
+Futbol	España / La Liga	Real Sociedad	Getafe CF	2023-09-24T07:00Z	2023-38	202309
+Futbol	España / La Liga	Rayo Vallecano	Villarreal CF	2023-09-24T09:15Z	2023-38	202309
+Futbol	España / La Liga	Las Palmas	Granada CF	2023-09-24T11:30Z	2023-38	202309
+Futbol	España / La Liga	Real Betis	Cádiz	2023-09-24T11:30Z	2023-38	202309
+Futbol	España / La Liga	Atlético de Madrid	Real Madrid	2023-09-24T14:00Z	2023-38	202309
+Futbol	España / La Liga	Sevilla FC	UD Almería	2023-09-26T12:00Z	2023-39	202309
+Futbol	España / La Liga	RCD Mallorca	FC Barcelona	2023-09-26T14:30Z	2023-39	202309
+Futbol	España / La Liga	Athletic Club	Getafe CF	2023-09-27T12:00Z	2023-39	202309
+Futbol	España / La Liga	Real Madrid	Las Palmas	2023-09-27T12:00Z	2023-39	202309
+Futbol	España / La Liga	Villarreal CF	Girona FC	2023-09-27T12:00Z	2023-39	202309
+Futbol	España / La Liga	Cádiz	Rayo Vallecano	2023-09-27T14:30Z	2023-39	202309
+Futbol	España / La Liga	Valencia CF	Real Sociedad	2023-09-27T14:30Z	2023-39	202309
+Futbol	España / La Liga	Celta de Vigo	Alavés	2023-09-28T12:00Z	2023-39	202309
+Futbol	España / La Liga	Granada CF	Real Betis	2023-09-28T12:00Z	2023-39	202309
+Futbol	España / La Liga	Osasuna	Atlético de Madrid	2023-09-28T14:30Z	2023-39	202309
+Futbol	España / La Liga	FC Barcelona	Sevilla FC	2023-09-29T14:00Z	2023-39	202309
+Futbol	España / La Liga	Getafe CF	Villarreal CF	2023-09-30T07:00Z	2023-39	202309
+Futbol	España / La Liga	Rayo Vallecano	RCD Mallorca	2023-09-30T09:15Z	2023-39	202309
+Futbol	España / La Liga	Girona FC	Real Madrid	2023-09-30T11:30Z	2023-39	202309
+Futbol	España / La Liga	Real Sociedad	Athletic Club	2023-09-30T14:00Z	2023-39	202309
+Futbol	España / La Liga	UD Almería	Granada CF	2023-10-01T07:00Z	2023-39	202310
+Futbol	España / La Liga	Alavés	Osasuna	2023-10-01T09:15Z	2023-39	202310
+Futbol	España / La Liga	Real Betis	Valencia CF	2023-10-01T11:30Z	2023-39	202310
+Futbol	España / La Liga	Atlético de Madrid	Cádiz	2023-10-01T14:00Z	2023-39	202310
+Futbol	España / La Liga	Las Palmas	Celta de Vigo	2023-10-02T14:00Z	2023-40	202310
+Futbol	España / La Liga	Alavés	Real Betis	2023-10-08T10:00Z	2023-40	202310
+Futbol	España / La Liga	Athletic Club	UD Almería	2023-10-08T10:00Z	2023-40	202310
+Futbol	España / La Liga	Atlético de Madrid	Real Sociedad	2023-10-08T10:00Z	2023-40	202310
+Futbol	España / La Liga	Cádiz	Girona FC	2023-10-08T10:00Z	2023-40	202310
+Futbol	España / La Liga	Celta de Vigo	Getafe CF	2023-10-08T10:00Z	2023-40	202310
+Futbol	España / La Liga	Granada CF	FC Barcelona	2023-10-08T10:00Z	2023-40	202310
+Futbol	España / La Liga	RCD Mallorca	Valencia CF	2023-10-08T10:00Z	2023-40	202310
+Futbol	España / La Liga	Real Madrid	Osasuna	2023-10-08T10:00Z	2023-40	202310
+Futbol	España / La Liga	Sevilla FC	Rayo Vallecano	2023-10-08T10:00Z	2023-40	202310
+Futbol	España / La Liga	Villarreal CF	Las Palmas	2023-10-08T10:00Z	2023-40	202310
+Futbol	España / La Liga	FC Barcelona	Athletic Club	2023-10-22T10:00Z	2023-42	202310
+Futbol	España / La Liga	Celta de Vigo	Atlético de Madrid	2023-10-22T10:00Z	2023-42	202310
+Futbol	España / La Liga	Getafe CF	Real Betis	2023-10-22T10:00Z	2023-42	202310
+Futbol	España / La Liga	Girona FC	UD Almería	2023-10-22T10:00Z	2023-42	202310
+Futbol	España / La Liga	Las Palmas	Rayo Vallecano	2023-10-22T10:00Z	2023-42	202310
+Futbol	España / La Liga	Osasuna	Granada CF	2023-10-22T10:00Z	2023-42	202310
+Futbol	España / La Liga	Sevilla FC	Real Madrid	2023-10-22T10:00Z	2023-42	202310
+Futbol	España / La Liga	Valencia CF	Cádiz	2023-10-22T10:00Z	2023-42	202310
+Futbol	España / La Liga	Real Sociedad	RCD Mallorca	2023-10-22T10:00Z	2023-42	202310
+Futbol	España / La Liga	Villarreal CF	Alavés	2023-10-22T10:00Z	2023-42	202310
+Futbol	España / La Liga	Athletic Club	Valencia CF	2023-10-29T10:00Z	2023-43	202310
+Futbol	España / La Liga	UD Almería	Las Palmas	2023-10-29T10:00Z	2023-43	202310
+Futbol	España / La Liga	Atlético de Madrid	Alavés	2023-10-29T10:00Z	2023-43	202310
+Futbol	España / La Liga	FC Barcelona	Real Madrid	2023-10-29T10:00Z	2023-43	202310
+Futbol	España / La Liga	Real Betis	Osasuna	2023-10-29T10:00Z	2023-43	202310
+Futbol	España / La Liga	Cádiz	Sevilla FC	2023-10-29T10:00Z	2023-43	202310
+Futbol	España / La Liga	Girona FC	Celta de Vigo	2023-10-29T10:00Z	2023-43	202310
+Futbol	España / La Liga	Granada CF	Villarreal CF	2023-10-29T10:00Z	2023-43	202310
+Futbol	España / La Liga	RCD Mallorca	Getafe CF	2023-10-29T10:00Z	2023-43	202310
+Futbol	España / La Liga	Rayo Vallecano	Real Sociedad	2023-10-29T10:00Z	2023-43	202310
+Futbol	España / La Liga	Alavés	UD Almería	2023-11-05T10:00Z	2023-44	202311
+Futbol	España / La Liga	Real Betis	RCD Mallorca	2023-11-05T10:00Z	2023-44	202311
+Futbol	España / La Liga	Celta de Vigo	Sevilla FC	2023-11-05T10:00Z	2023-44	202311
+Futbol	España / La Liga	Getafe CF	Cádiz	2023-11-05T10:00Z	2023-44	202311
+Futbol	España / La Liga	Osasuna	Girona FC	2023-11-05T10:00Z	2023-44	202311
+Futbol	España / La Liga	Las Palmas	Atlético de Madrid	2023-11-05T10:00Z	2023-44	202311
+Futbol	España / La Liga	Real Madrid	Rayo Vallecano	2023-11-05T10:00Z	2023-44	202311
+Futbol	España / La Liga	Real Sociedad	FC Barcelona	2023-11-05T10:00Z	2023-44	202311
+Futbol	España / La Liga	Valencia CF	Granada CF	2023-11-05T10:00Z	2023-44	202311
+Futbol	España / La Liga	Villarreal CF	Athletic Club	2023-11-05T10:00Z	2023-44	202311
+Futbol	España / La Liga	UD Almería	Real Sociedad	2023-11-12T10:00Z	2023-45	202311
+Futbol	España / La Liga	Atlético de Madrid	Villarreal CF	2023-11-12T10:00Z	2023-45	202311
+Futbol	España / La Liga	Athletic Club	Celta de Vigo	2023-11-12T10:00Z	2023-45	202311
+Futbol	España / La Liga	Granada CF	Getafe CF	2023-11-12T10:00Z	2023-45	202311
+Futbol	España / La Liga	RCD Mallorca	Cádiz	2023-11-12T10:00Z	2023-45	202311
+Futbol	España / La Liga	Osasuna	Las Palmas	2023-11-12T10:00Z	2023-45	202311
+Futbol	España / La Liga	Rayo Vallecano	Girona FC	2023-11-12T10:00Z	2023-45	202311
+Futbol	España / La Liga	FC Barcelona	Alavés	2023-11-12T10:00Z	2023-45	202311
+Futbol	España / La Liga	Real Madrid	Valencia CF	2023-11-12T10:00Z	2023-45	202311
+Futbol	España / La Liga	Sevilla FC	Real Betis	2023-11-12T10:00Z	2023-45	202311
+Futbol	España / La Liga	Alavés	Granada CF	2023-11-26T10:00Z	2023-47	202311
+Futbol	España / La Liga	Atlético de Madrid	RCD Mallorca	2023-11-26T10:00Z	2023-47	202311
+Futbol	España / La Liga	Real Betis	Las Palmas	2023-11-26T10:00Z	2023-47	202311
+Futbol	España / La Liga	Cádiz	Real Madrid	2023-11-26T10:00Z	2023-47	202311
+Futbol	España / La Liga	Getafe CF	UD Almería	2023-11-26T10:00Z	2023-47	202311
+Futbol	España / La Liga	Girona FC	Athletic Club	2023-11-26T10:00Z	2023-47	202311
+Futbol	España / La Liga	Rayo Vallecano	FC Barcelona	2023-11-26T10:00Z	2023-47	202311
+Futbol	España / La Liga	Real Sociedad	Sevilla FC	2023-11-26T10:00Z	2023-47	202311
+Futbol	España / La Liga	Valencia CF	Celta de Vigo	2023-11-26T10:00Z	2023-47	202311
+Futbol	España / La Liga	Villarreal CF	Osasuna	2023-11-26T10:00Z	2023-47	202311
+Futbol	España / La Liga	UD Almería	Real Betis	2023-12-03T10:00Z	2023-48	202312
+Futbol	España / La Liga	Athletic Club	Rayo Vallecano	2023-12-03T10:00Z	2023-48	202312
+Futbol	España / La Liga	FC Barcelona	Atlético de Madrid	2023-12-03T10:00Z	2023-48	202312
+Futbol	España / La Liga	Celta de Vigo	Cádiz	2023-12-03T10:00Z	2023-48	202312
+Futbol	España / La Liga	Girona FC	Valencia CF	2023-12-03T10:00Z	2023-48	202312
+Futbol	España / La Liga	Las Palmas	Getafe CF	2023-12-03T10:00Z	2023-48	202312
+Futbol	España / La Liga	RCD Mallorca	Alavés	2023-12-03T10:00Z	2023-48	202312
+Futbol	España / La Liga	Osasuna	Real Sociedad	2023-12-03T10:00Z	2023-48	202312
+Futbol	España / La Liga	Real Madrid	Granada CF	2023-12-03T10:00Z	2023-48	202312
+Futbol	España / La Liga	Sevilla FC	Villarreal CF	2023-12-03T10:00Z	2023-48	202312
+Futbol	España / La Liga	Alavés	Las Palmas	2023-12-10T10:00Z	2023-49	202312
+Futbol	España / La Liga	Atlético de Madrid	UD Almería	2023-12-10T10:00Z	2023-49	202312
+Futbol	España / La Liga	FC Barcelona	Girona FC	2023-12-10T10:00Z	2023-49	202312
+Futbol	España / La Liga	Real Betis	Real Madrid	2023-12-10T10:00Z	2023-49	202312
+Futbol	España / La Liga	Cádiz	Osasuna	2023-12-10T10:00Z	2023-49	202312
+Futbol	España / La Liga	Getafe CF	Valencia CF	2023-12-10T10:00Z	2023-49	202312
+Futbol	España / La Liga	Granada CF	Athletic Club	2023-12-10T10:00Z	2023-49	202312
+Futbol	España / La Liga	RCD Mallorca	Sevilla FC	2023-12-10T10:00Z	2023-49	202312
+Futbol	España / La Liga	Rayo Vallecano	Celta de Vigo	2023-12-10T10:00Z	2023-49	202312
+Futbol	España / La Liga	Villarreal CF	Real Sociedad	2023-12-10T10:00Z	2023-49	202312
+Futbol	España / La Liga	Athletic Club	Atlético de Madrid	2023-12-17T10:00Z	2023-50	202312
+Futbol	España / La Liga	Girona FC	Alavés	2023-12-17T10:00Z	2023-50	202312
+Futbol	España / La Liga	Celta de Vigo	Granada CF	2023-12-17T10:00Z	2023-50	202312
+Futbol	España / La Liga	Las Palmas	Cádiz	2023-12-17T10:00Z	2023-50	202312
+Futbol	España / La Liga	Osasuna	Rayo Vallecano	2023-12-17T10:00Z	2023-50	202312
+Futbol	España / La Liga	UD Almería	RCD Mallorca	2023-12-17T10:00Z	2023-50	202312
+Futbol	España / La Liga	Real Sociedad	Real Betis	2023-12-17T10:00Z	2023-50	202312
+Futbol	España / La Liga	Sevilla FC	Getafe CF	2023-12-17T10:00Z	2023-50	202312
+Futbol	España / La Liga	Real Madrid	Villarreal CF	2023-12-17T10:00Z	2023-50	202312
+Futbol	España / La Liga	Valencia CF	FC Barcelona	2023-12-17T10:00Z	2023-50	202312
+Futbol	España / La Liga	Alavés	Real Madrid	2023-12-20T10:00Z	2023-51	202312
+Futbol	España / La Liga	Athletic Club	Las Palmas	2023-12-20T10:00Z	2023-51	202312
+Futbol	España / La Liga	Atlético de Madrid	Getafe CF	2023-12-20T10:00Z	2023-51	202312
+Futbol	España / La Liga	FC Barcelona	UD Almería	2023-12-20T10:00Z	2023-51	202312
+Futbol	España / La Liga	Real Betis	Girona FC	2023-12-20T10:00Z	2023-51	202312
+Futbol	España / La Liga	Granada CF	Sevilla FC	2023-12-20T10:00Z	2023-51	202312
+Futbol	España / La Liga	RCD Mallorca	Osasuna	2023-12-20T10:00Z	2023-51	202312
+Futbol	España / La Liga	Rayo Vallecano	Valencia CF	2023-12-20T10:00Z	2023-51	202312
+Futbol	España / La Liga	Cádiz	Real Sociedad	2023-12-20T10:00Z	2023-51	202312
+Futbol	España / La Liga	Villarreal CF	Celta de Vigo	2023-12-20T10:00Z	2023-51	202312
+Futbol	España / La Liga	Atlético de Madrid	Sevilla FC	2023-12-23T10:15Z	2023-51	202312
+Futbol	España / La Liga	Celta de Vigo	Real Betis	2024-01-03T10:00Z	2024-1	202401
+Futbol	España / La Liga	Getafe CF	Rayo Vallecano	2024-01-03T10:00Z	2024-1	202401
+Futbol	España / La Liga	Girona FC	Atlético de Madrid	2024-01-03T10:00Z	2024-1	202401
+Futbol	España / La Liga	Granada CF	Cádiz	2024-01-03T10:00Z	2024-1	202401
+Futbol	España / La Liga	Osasuna	UD Almería	2024-01-03T10:00Z	2024-1	202401
+Futbol	España / La Liga	Las Palmas	FC Barcelona	2024-01-03T10:00Z	2024-1	202401
+Futbol	España / La Liga	Real Madrid	RCD Mallorca	2024-01-03T10:00Z	2024-1	202401
+Futbol	España / La Liga	Real Sociedad	Alavés	2024-01-03T10:00Z	2024-1	202401
+Futbol	España / La Liga	Sevilla FC	Athletic Club	2024-01-03T10:00Z	2024-1	202401
+Futbol	España / La Liga	Valencia CF	Villarreal CF	2024-01-03T10:00Z	2024-1	202401
+Futbol	España / La Liga	UD Almería	Girona FC	2024-01-14T10:00Z	2024-2	202401
+Futbol	España / La Liga	Athletic Club	Real Sociedad	2024-01-14T10:00Z	2024-2	202401
+Futbol	España / La Liga	Atlético de Madrid	Rayo Vallecano	2024-01-14T10:00Z	2024-2	202401
+Futbol	España / La Liga	FC Barcelona	Osasuna	2024-01-14T10:00Z	2024-2	202401
+Futbol	España / La Liga	Real Betis	Granada CF	2024-01-14T10:00Z	2024-2	202401
+Futbol	España / La Liga	Cádiz	Valencia CF	2024-01-14T10:00Z	2024-2	202401
+Futbol	España / La Liga	Getafe CF	Real Madrid	2024-01-14T10:00Z	2024-2	202401
+Futbol	España / La Liga	Las Palmas	Villarreal CF	2024-01-14T10:00Z	2024-2	202401
+Futbol	España / La Liga	RCD Mallorca	Celta de Vigo	2024-01-14T10:00Z	2024-2	202401
+Futbol	España / La Liga	Sevilla FC	Alavés	2024-01-14T10:00Z	2024-2	202401
+Futbol	España / La Liga	Celta de Vigo	Real Sociedad	2024-01-21T10:00Z	2024-3	202401
+Futbol	España / La Liga	Real Madrid	UD Almería	2024-01-21T10:00Z	2024-3	202401
+Futbol	España / La Liga	Granada CF	Atlético de Madrid	2024-01-21T10:00Z	2024-3	202401
+Futbol	España / La Liga	Valencia CF	Athletic Club	2024-01-21T10:00Z	2024-3	202401
+Futbol	España / La Liga	Alavés	Cádiz	2024-01-21T10:00Z	2024-3	202401
+Futbol	España / La Liga	Girona FC	Sevilla FC	2024-01-21T10:00Z	2024-3	202401
+Futbol	España / La Liga	Real Betis	FC Barcelona	2024-01-21T10:00Z	2024-3	202401
+Futbol	España / La Liga	Osasuna	Getafe CF	2024-01-21T10:00Z	2024-3	202401
+Futbol	España / La Liga	Villarreal CF	RCD Mallorca	2024-01-21T10:00Z	2024-3	202401
+Futbol	España / La Liga	Rayo Vallecano	Las Palmas	2024-01-21T10:00Z	2024-3	202401
+Futbol	España / La Liga	Getafe CF	Granada CF	2024-01-28T10:00Z	2024-4	202401
+Futbol	España / La Liga	Las Palmas	Real Madrid	2024-01-28T10:00Z	2024-4	202401
+Futbol	España / La Liga	Cádiz	Athletic Club	2024-01-28T10:00Z	2024-4	202401
+Futbol	España / La Liga	RCD Mallorca	Real Betis	2024-01-28T10:00Z	2024-4	202401
+Futbol	España / La Liga	Sevilla FC	Osasuna	2024-01-28T10:00Z	2024-4	202401
+Futbol	España / La Liga	Real Sociedad	Rayo Vallecano	2024-01-28T10:00Z	2024-4	202401
+Futbol	España / La Liga	UD Almería	Alavés	2024-01-28T10:00Z	2024-4	202401
+Futbol	España / La Liga	Atlético de Madrid	Valencia CF	2024-01-28T10:00Z	2024-4	202401
+Futbol	España / La Liga	FC Barcelona	Villarreal CF	2024-01-28T10:00Z	2024-4	202401
+Futbol	España / La Liga	Celta de Vigo	Girona FC	2024-01-28T10:00Z	2024-4	202401
+Futbol	España / La Liga	Athletic Club	RCD Mallorca	2024-02-04T10:00Z	2024-5	202402
+Futbol	España / La Liga	Real Betis	Getafe CF	2024-02-04T10:00Z	2024-5	202402
+Futbol	España / La Liga	Girona FC	Real Sociedad	2024-02-04T10:00Z	2024-5	202402
+Futbol	España / La Liga	Granada CF	Las Palmas	2024-02-04T10:00Z	2024-5	202402
+Futbol	España / La Liga	Rayo Vallecano	Sevilla FC	2024-02-04T10:00Z	2024-5	202402
+Futbol	España / La Liga	Alavés	FC Barcelona	2024-02-04T10:00Z	2024-5	202402
+Futbol	España / La Liga	Valencia CF	UD Almería	2024-02-04T10:00Z	2024-5	202402
+Futbol	España / La Liga	Real Madrid	Atlético de Madrid	2024-02-04T10:00Z	2024-5	202402
+Futbol	España / La Liga	Villarreal CF	Cádiz	2024-02-04T10:00Z	2024-5	202402
+Futbol	España / La Liga	Osasuna	Celta de Vigo	2024-02-04T10:00Z	2024-5	202402
+Futbol	España / La Liga	UD Almería	Athletic Club	2024-02-11T10:00Z	2024-6	202402
+Futbol	España / La Liga	FC Barcelona	Granada CF	2024-02-11T10:00Z	2024-6	202402
+Futbol	España / La Liga	RCD Mallorca	Rayo Vallecano	2024-02-11T10:00Z	2024-6	202402
+Futbol	España / La Liga	Las Palmas	Valencia CF	2024-02-11T10:00Z	2024-6	202402
+Futbol	España / La Liga	Alavés	Villarreal CF	2024-02-11T10:00Z	2024-6	202402
+Futbol	España / La Liga	Sevilla FC	Atlético de Madrid	2024-02-11T10:00Z	2024-6	202402
+Futbol	España / La Liga	Cádiz	Real Betis	2024-02-11T10:00Z	2024-6	202402
+Futbol	España / La Liga	Getafe CF	Celta de Vigo	2024-02-11T10:00Z	2024-6	202402
+Futbol	España / La Liga	Real Madrid	Girona FC	2024-02-11T10:00Z	2024-6	202402
+Futbol	España / La Liga	Real Sociedad	Osasuna	2024-02-11T10:00Z	2024-6	202402
+Futbol	España / La Liga	Athletic Club	Girona FC	2024-02-18T10:00Z	2024-7	202402
+Futbol	España / La Liga	Atlético de Madrid	Las Palmas	2024-02-18T10:00Z	2024-7	202402
+Futbol	España / La Liga	RCD Mallorca	Real Sociedad	2024-02-18T10:00Z	2024-7	202402
+Futbol	España / La Liga	Rayo Vallecano	Real Madrid	2024-02-18T10:00Z	2024-7	202402
+Futbol	España / La Liga	Granada CF	UD Almería	2024-02-18T10:00Z	2024-7	202402
+Futbol	España / La Liga	Celta de Vigo	FC Barcelona	2024-02-18T10:00Z	2024-7	202402
+Futbol	España / La Liga	Osasuna	Cádiz	2024-02-18T10:00Z	2024-7	202402
+Futbol	España / La Liga	Villarreal CF	Getafe CF	2024-02-18T10:00Z	2024-7	202402
+Futbol	España / La Liga	Valencia CF	Sevilla FC	2024-02-18T10:00Z	2024-7	202402
+Futbol	España / La Liga	Real Betis	Alavés	2024-02-18T10:00Z	2024-7	202402
+Futbol	España / La Liga	UD Almería	Atlético de Madrid	2024-02-25T10:00Z	2024-8	202402
+Futbol	España / La Liga	FC Barcelona	Getafe CF	2024-02-25T10:00Z	2024-8	202402
+Futbol	España / La Liga	Cádiz	Celta de Vigo	2024-02-25T10:00Z	2024-8	202402
+Futbol	España / La Liga	Girona FC	Rayo Vallecano	2024-02-25T10:00Z	2024-8	202402
+Futbol	España / La Liga	Real Madrid	Sevilla FC	2024-02-25T10:00Z	2024-8	202402
+Futbol	España / La Liga	Real Sociedad	Villarreal CF	2024-02-25T10:00Z	2024-8	202402
+Futbol	España / La Liga	Granada CF	Valencia CF	2024-02-25T10:00Z	2024-8	202402
+Futbol	España / La Liga	Las Palmas	Osasuna	2024-02-25T10:00Z	2024-8	202402
+Futbol	España / La Liga	Alavés	RCD Mallorca	2024-02-25T10:00Z	2024-8	202402
+Futbol	España / La Liga	Real Betis	Athletic Club	2024-02-25T10:00Z	2024-8	202402
+Futbol	España / La Liga	Atlético de Madrid	Real Betis	2024-03-03T10:00Z	2024-9	202403
+Futbol	España / La Liga	Athletic Club	FC Barcelona	2024-03-03T10:00Z	2024-9	202403
+Futbol	España / La Liga	Getafe CF	Las Palmas	2024-03-03T10:00Z	2024-9	202403
+Futbol	España / La Liga	Celta de Vigo	UD Almería	2024-03-03T10:00Z	2024-9	202403
+Futbol	España / La Liga	Rayo Vallecano	Cádiz	2024-03-03T10:00Z	2024-9	202403
+Futbol	España / La Liga	RCD Mallorca	Girona FC	2024-03-03T10:00Z	2024-9	202403
+Futbol	España / La Liga	Valencia CF	Real Madrid	2024-03-03T10:00Z	2024-9	202403
+Futbol	España / La Liga	Sevilla FC	Real Sociedad	2024-03-03T10:00Z	2024-9	202403
+Futbol	España / La Liga	Osasuna	Alavés	2024-03-03T10:00Z	2024-9	202403
+Futbol	España / La Liga	Villarreal CF	Granada CF	2024-03-03T10:00Z	2024-9	202403
+Futbol	España / La Liga	UD Almería	Sevilla FC	2024-03-10T10:00Z	2024-10	202403
+Futbol	España / La Liga	FC Barcelona	RCD Mallorca	2024-03-10T10:00Z	2024-10	202403
+Futbol	España / La Liga	Real Betis	Villarreal CF	2024-03-10T10:00Z	2024-10	202403
+Futbol	España / La Liga	Girona FC	Osasuna	2024-03-10T10:00Z	2024-10	202403
+Futbol	España / La Liga	Granada CF	Real Sociedad	2024-03-10T10:00Z	2024-10	202403
+Futbol	España / La Liga	Alavés	Rayo Vallecano	2024-03-10T10:00Z	2024-10	202403
+Futbol	España / La Liga	Las Palmas	Athletic Club	2024-03-10T10:00Z	2024-10	202403
+Futbol	España / La Liga	Cádiz	Atlético de Madrid	2024-03-10T10:00Z	2024-10	202403
+Futbol	España / La Liga	Real Madrid	Celta de Vigo	2024-03-10T10:00Z	2024-10	202403
+Futbol	España / La Liga	Valencia CF	Getafe CF	2024-03-10T10:00Z	2024-10	202403
+Futbol	España / La Liga	Atlético de Madrid	FC Barcelona	2024-03-17T10:00Z	2024-11	202403
+Futbol	España / La Liga	Getafe CF	Girona FC	2024-03-17T10:00Z	2024-11	202403
+Futbol	España / La Liga	Osasuna	Real Madrid	2024-03-17T10:00Z	2024-11	202403
+Futbol	España / La Liga	Las Palmas	UD Almería	2024-03-17T10:00Z	2024-11	202403
+Futbol	España / La Liga	Rayo Vallecano	Real Betis	2024-03-17T10:00Z	2024-11	202403
+Futbol	España / La Liga	Real Sociedad	Cádiz	2024-03-17T10:00Z	2024-11	202403
+Futbol	España / La Liga	Sevilla FC	Celta de Vigo	2024-03-17T10:00Z	2024-11	202403
+Futbol	España / La Liga	Villarreal CF	Valencia CF	2024-03-17T10:00Z	2024-11	202403
+Futbol	España / La Liga	RCD Mallorca	Granada CF	2024-03-17T10:00Z	2024-11	202403
+Futbol	España / La Liga	Athletic Club	Alavés	2024-03-17T10:00Z	2024-11	202403
+Futbol	España / La Liga	UD Almería	Osasuna	2024-03-31T10:00Z	2024-13	202403
+Futbol	España / La Liga	FC Barcelona	Las Palmas	2024-03-31T10:00Z	2024-13	202403
+Futbol	España / La Liga	Cádiz	Granada CF	2024-03-31T10:00Z	2024-13	202403
+Futbol	España / La Liga	Celta de Vigo	Rayo Vallecano	2024-03-31T10:00Z	2024-13	202403
+Futbol	España / La Liga	Getafe CF	Sevilla FC	2024-03-31T10:00Z	2024-13	202403
+Futbol	España / La Liga	Alavés	Real Sociedad	2024-03-31T10:00Z	2024-13	202403
+Futbol	España / La Liga	Real Madrid	Athletic Club	2024-03-31T10:00Z	2024-13	202403
+Futbol	España / La Liga	Villarreal CF	Atlético de Madrid	2024-03-31T10:00Z	2024-13	202403
+Futbol	España / La Liga	Girona FC	Real Betis	2024-03-31T10:00Z	2024-13	202403
+Futbol	España / La Liga	Valencia CF	RCD Mallorca	2024-03-31T10:00Z	2024-13	202403
+Futbol	España / La Liga	Athletic Club	Villarreal CF	2024-04-14T10:00Z	2024-15	202404
+Futbol	España / La Liga	Atlético de Madrid	Girona FC	2024-04-14T10:00Z	2024-15	202404
+Futbol	España / La Liga	Real Betis	Celta de Vigo	2024-04-14T10:00Z	2024-15	202404
+Futbol	España / La Liga	RCD Mallorca	Real Madrid	2024-04-14T10:00Z	2024-15	202404
+Futbol	España / La Liga	Osasuna	Valencia CF	2024-04-14T10:00Z	2024-15	202404
+Futbol	España / La Liga	Las Palmas	Sevilla FC	2024-04-14T10:00Z	2024-15	202404
+Futbol	España / La Liga	Real Sociedad	UD Almería	2024-04-14T10:00Z	2024-15	202404
+Futbol	España / La Liga	Cádiz	FC Barcelona	2024-04-14T10:00Z	2024-15	202404
+Futbol	España / La Liga	Rayo Vallecano	Getafe CF	2024-04-14T10:00Z	2024-15	202404
+Futbol	España / La Liga	Granada CF	Alavés	2024-04-14T10:00Z	2024-15	202404
+Futbol	España / La Liga	UD Almería	Villarreal CF	2024-04-21T10:00Z	2024-16	202404
+Futbol	España / La Liga	Athletic Club	Granada CF	2024-04-21T10:00Z	2024-16	202404
+Futbol	España / La Liga	Celta de Vigo	Las Palmas	2024-04-21T10:00Z	2024-16	202404
+Futbol	España / La Liga	Getafe CF	Real Sociedad	2024-04-21T10:00Z	2024-16	202404
+Futbol	España / La Liga	Alavés	Atlético de Madrid	2024-04-21T10:00Z	2024-16	202404
+Futbol	España / La Liga	Real Madrid	FC Barcelona	2024-04-21T10:00Z	2024-16	202404
+Futbol	España / La Liga	Valencia CF	Real Betis	2024-04-21T10:00Z	2024-16	202404
+Futbol	España / La Liga	Girona FC	Cádiz	2024-04-21T10:00Z	2024-16	202404
+Futbol	España / La Liga	Sevilla FC	RCD Mallorca	2024-04-21T10:00Z	2024-16	202404
+Futbol	España / La Liga	Rayo Vallecano	Osasuna	2024-04-21T10:00Z	2024-16	202404
+Futbol	España / La Liga	FC Barcelona	Valencia CF	2024-04-28T10:00Z	2024-17	202404
+Futbol	España / La Liga	Real Betis	Sevilla FC	2024-04-28T10:00Z	2024-17	202404
+Futbol	España / La Liga	UD Almería	Getafe CF	2024-04-28T10:00Z	2024-17	202404
+Futbol	España / La Liga	Cádiz	RCD Mallorca	2024-04-28T10:00Z	2024-17	202404
+Futbol	España / La Liga	Granada CF	Osasuna	2024-04-28T10:00Z	2024-17	202404
+Futbol	España / La Liga	Alavés	Celta de Vigo	2024-04-28T10:00Z	2024-17	202404
+Futbol	España / La Liga	Atlético de Madrid	Athletic Club	2024-04-28T10:00Z	2024-17	202404
+Futbol	España / La Liga	Las Palmas	Girona FC	2024-04-28T10:00Z	2024-17	202404
+Futbol	España / La Liga	Villarreal CF	Rayo Vallecano	2024-04-28T10:00Z	2024-17	202404
+Futbol	España / La Liga	Real Sociedad	Real Madrid	2024-04-28T10:00Z	2024-17	202404
+Futbol	España / La Liga	Celta de Vigo	Villarreal CF	2024-05-05T10:00Z	2024-18	202405
+Futbol	España / La Liga	Rayo Vallecano	UD Almería	2024-05-05T10:00Z	2024-18	202405
+Futbol	España / La Liga	Getafe CF	Athletic Club	2024-05-05T10:00Z	2024-18	202405
+Futbol	España / La Liga	RCD Mallorca	Atlético de Madrid	2024-05-05T10:00Z	2024-18	202405
+Futbol	España / La Liga	Girona FC	FC Barcelona	2024-05-05T10:00Z	2024-18	202405
+Futbol	España / La Liga	Real Madrid	Cádiz	2024-05-05T10:00Z	2024-18	202405
+Futbol	España / La Liga	Osasuna	Real Betis	2024-05-05T10:00Z	2024-18	202405
+Futbol	España / La Liga	Sevilla FC	Granada CF	2024-05-05T10:00Z	2024-18	202405
+Futbol	España / La Liga	Real Sociedad	Las Palmas	2024-05-05T10:00Z	2024-18	202405
+Futbol	España / La Liga	Valencia CF	Alavés	2024-05-05T10:00Z	2024-18	202405
+Futbol	España / La Liga	Athletic Club	Osasuna	2024-05-12T10:00Z	2024-19	202405
+Futbol	España / La Liga	Atlético de Madrid	Celta de Vigo	2024-05-12T10:00Z	2024-19	202405
+Futbol	España / La Liga	FC Barcelona	Real Sociedad	2024-05-12T10:00Z	2024-19	202405
+Futbol	España / La Liga	Cádiz	Getafe CF	2024-05-12T10:00Z	2024-19	202405
+Futbol	España / La Liga	Granada CF	Real Madrid	2024-05-12T10:00Z	2024-19	202405
+Futbol	España / La Liga	Alavés	Girona FC	2024-05-12T10:00Z	2024-19	202405
+Futbol	España / La Liga	Real Betis	UD Almería	2024-05-12T10:00Z	2024-19	202405
+Futbol	España / La Liga	Valencia CF	Rayo Vallecano	2024-05-12T10:00Z	2024-19	202405
+Futbol	España / La Liga	Villarreal CF	Sevilla FC	2024-05-12T10:00Z	2024-19	202405
+Futbol	España / La Liga	RCD Mallorca	Las Palmas	2024-05-12T10:00Z	2024-19	202405
+Futbol	España / La Liga	Girona FC	Villarreal CF	2024-05-15T10:00Z	2024-20	202405
+Futbol	España / La Liga	UD Almería	FC Barcelona	2024-05-15T10:00Z	2024-20	202405
+Futbol	España / La Liga	Real Sociedad	Valencia CF	2024-05-15T10:00Z	2024-20	202405
+Futbol	España / La Liga	Celta de Vigo	Athletic Club	2024-05-15T10:00Z	2024-20	202405
+Futbol	España / La Liga	Getafe CF	Atlético de Madrid	2024-05-15T10:00Z	2024-20	202405
+Futbol	España / La Liga	Las Palmas	Real Betis	2024-05-15T10:00Z	2024-20	202405
+Futbol	España / La Liga	Sevilla FC	Cádiz	2024-05-15T10:00Z	2024-20	202405
+Futbol	España / La Liga	Osasuna	RCD Mallorca	2024-05-15T10:00Z	2024-20	202405
+Futbol	España / La Liga	Rayo Vallecano	Granada CF	2024-05-15T10:00Z	2024-20	202405
+Futbol	España / La Liga	Real Madrid	Alavés	2024-05-15T10:00Z	2024-20	202405
+Futbol	España / La Liga	Athletic Club	Sevilla FC	2024-05-19T10:00Z	2024-20	202405
+Futbol	España / La Liga	Atlético de Madrid	Osasuna	2024-05-19T10:00Z	2024-20	202405
+Futbol	España / La Liga	FC Barcelona	Rayo Vallecano	2024-05-19T10:00Z	2024-20	202405
+Futbol	España / La Liga	Real Betis	Real Sociedad	2024-05-19T10:00Z	2024-20	202405
+Futbol	España / La Liga	Cádiz	Las Palmas	2024-05-19T10:00Z	2024-20	202405
+Futbol	España / La Liga	Alavés	Getafe CF	2024-05-19T10:00Z	2024-20	202405
+Futbol	España / La Liga	RCD Mallorca	UD Almería	2024-05-19T10:00Z	2024-20	202405
+Futbol	España / La Liga	Granada CF	Celta de Vigo	2024-05-19T10:00Z	2024-20	202405
+Futbol	España / La Liga	Valencia CF	Girona FC	2024-05-19T10:00Z	2024-20	202405
+Futbol	España / La Liga	Villarreal CF	Real Madrid	2024-05-19T10:00Z	2024-20	202405
+Futbol	España / La Liga	UD Almería	Cádiz	2024-05-26T10:00Z	2024-21	202405
+Futbol	España / La Liga	Celta de Vigo	Valencia CF	2024-05-26T10:00Z	2024-21	202405
+Futbol	España / La Liga	Getafe CF	RCD Mallorca	2024-05-26T10:00Z	2024-21	202405
+Futbol	España / La Liga	Girona FC	Granada CF	2024-05-26T10:00Z	2024-21	202405
+Futbol	España / La Liga	Osasuna	Villarreal CF	2024-05-26T10:00Z	2024-21	202405
+Futbol	España / La Liga	Rayo Vallecano	Athletic Club	2024-05-26T10:00Z	2024-21	202405
+Futbol	España / La Liga	Sevilla FC	FC Barcelona	2024-05-26T10:00Z	2024-21	202405
+Futbol	España / La Liga	Real Sociedad	Atlético de Madrid	2024-05-26T10:00Z	2024-21	202405
+Futbol	España / La Liga	Real Madrid	Real Betis	2024-05-26T10:00Z	2024-21	202405
+Futbol	España / La Liga	Las Palmas	Alavés	2024-05-26T10:00Z	2024-21	202405
