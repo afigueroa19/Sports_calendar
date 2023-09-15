@@ -6,5 +6,5 @@ For sport's fans:
   
 For sport related companies 
 * Help plan their commercial/promotion plans. 
-* Could be used to forecast the amount wagered of users.
+* Could be used to forecast sells.
 
