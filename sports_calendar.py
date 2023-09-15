@@ -15,6 +15,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import pandas as pd
+from lib_normalize import normalize
 
 
 fecha_muestra = datetime.now()
@@ -74,8 +75,8 @@ def get_info(url_base, eventos,max_game_id):
             evento=({
                     "deporte": sport,
                     "liga": nombre_liga,
-                    "local": home_name,
-                    "visita": away_name,
+                    "local": normalize(home_name),
+                    "visita": normalize(away_name),
                     "fecha_hora_evento": fecha+'Z'
                 })
             eventos.append(evento)
@@ -107,14 +108,12 @@ for i in range(len(array_dict_campeonatos)):
     
 
 df = pd.DataFrame(eventos)
-print(df.head(10))
+
 
 
 if len(df)>1:
-    df['cod_semana']=df['fecha_hora_evento'].apply(lambda x: str(datetime.strptime(x[:10], '%Y-%m-%d').isocalendar()[0]) + '-'+str(datetime.strptime(x[:10], '%Y-%m-%d').isocalendar()[1]))
-    df["cod_semana"]=df["cod_semana"].values.astype('str')
-    df['cod_mes']=df['fecha_hora_evento'].apply(lambda x: int(str(x[:4])  + str(x[5:7])))
     print(np.unique(df['liga']))
+    print(df.head(10))
     print(df.tail(10))
 
-    df.to_csv('indice_de_contenido_365.csv', encoding='utf-8', sep='\t', index=False)
+    df.to_csv('sports_calendar.csv', encoding='utf-8', sep='\t', index=False)
